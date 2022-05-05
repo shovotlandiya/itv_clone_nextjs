@@ -1,0 +1,27 @@
+export const SideBar=[
+    {
+        title:"Home",
+        path:"/",
+        cName:"sideText"
+    },
+    {
+        title:"Films",
+        path:"/films",
+        cName:"sideText"
+    },
+    {
+        title:"Serials",
+        path:"/serials",
+        cName:"sideText"
+    },
+    {
+        title:"Cartoons",
+        path:"/cartoons",
+        cName:"sideText"
+    },
+    {
+        title:"Anime",
+        path:"/anime",
+        cName:"sideText"
+    }
+]
